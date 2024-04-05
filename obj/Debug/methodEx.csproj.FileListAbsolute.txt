@@ -1,0 +1,7 @@
+C:\Users\Astral\source\repos\methodEx\methodEx\bin\Debug\methodEx.exe.config
+C:\Users\Astral\source\repos\methodEx\methodEx\bin\Debug\methodEx.exe
+C:\Users\Astral\source\repos\methodEx\methodEx\bin\Debug\methodEx.pdb
+C:\Users\Astral\source\repos\methodEx\methodEx\obj\Debug\methodEx.csproj.AssemblyReference.cache
+C:\Users\Astral\source\repos\methodEx\methodEx\obj\Debug\methodEx.csproj.CoreCompileInputs.cache
+C:\Users\Astral\source\repos\methodEx\methodEx\obj\Debug\methodEx.exe
+C:\Users\Astral\source\repos\methodEx\methodEx\obj\Debug\methodEx.pdb
